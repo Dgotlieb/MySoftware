@@ -6,8 +6,14 @@ public class Main {
 
     }
 
+
+    public void welcome(){
+        System.out.println("New Screen");
+    }
+
     public void click(){
         System.out.println("click");
     }
+
 
 }
